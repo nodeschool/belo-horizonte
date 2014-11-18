@@ -67,7 +67,7 @@ header .row { z-index: 2; position: relative; }
 }
 
 #subheadline, #subheadline a {
-  color: rgb(80,0,0);
+  color: #2C3E50;
   background-color: rgba(233, 230, 208, 1);
 }
 
