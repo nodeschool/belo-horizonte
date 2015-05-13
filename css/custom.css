@@ -129,7 +129,7 @@ header .row { z-index: 2; position: relative; }
     padding-bottom: 50px;
   }
   #subheadline {
-    font-size: 18
+    font-size: 18px;
   }
 }
 
@@ -138,7 +138,7 @@ header .row { z-index: 2; position: relative; }
     font-size: 55px;
   }
   #subheadline {
-    font-size: 22
+    font-size: 22px;
   }
 }
 
