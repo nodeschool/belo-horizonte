@@ -12,7 +12,6 @@
 
 .logo span:first-child {
   color: rgb(230, 225, 203);
-  margin: 0 -12px 0 -14px;
 }
 
 .logo {
@@ -111,7 +110,7 @@ header .row { z-index: 2; position: relative; }
 
 @media screen and (max-width: 468px) {
   .logo {
-    font-size: 50px;
+    font-size: 40px;
   }
   .btn-docs {
     border-color: #a61300;
@@ -128,6 +127,18 @@ header .row { z-index: 2; position: relative; }
   }
   .header-intro-wrap {
     padding-bottom: 50px;
+  }
+  #subheadline {
+    font-size: 18
+  }
+}
+
+@media screen and (max-width: 768px) and (min-width: 468px){
+  .logo {
+    font-size: 55px;
+  }
+  #subheadline {
+    font-size: 22
   }
 }
 
